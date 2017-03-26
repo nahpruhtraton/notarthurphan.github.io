@@ -1,11 +1,20 @@
 <link rel="stylesheet" href="styles.css"/>
-img {
-    width: 200px;
+
+
+ {
+    background-color: blue;
 }
+
 body {
     text-align: center;
 }
 body {
     text-align: center;
-    font-family: "Helvetica";
+    font-family: "Lucida Console";
+    color: white;
+}
+body {
+    background-image: url("http://www.asiahotel.th1.org/asia-hotel-bangkok/img/rio_grill_l.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
 }
